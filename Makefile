@@ -1,2 +1,3 @@
 all:
-	g++ main.cpp -std=c++11 -Wall -Werror -o qmth
+	g++ src/main.cpp -std=c++11 -Wall -Werror -o qmth
+
