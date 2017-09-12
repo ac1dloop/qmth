@@ -4,7 +4,7 @@ Installation:
 	run make from root directory of program
 
 Example:
-	qmth + 2
+	./qmth + 2
 l1: 2+2
 l2: 45+12
 l3: 235+579
